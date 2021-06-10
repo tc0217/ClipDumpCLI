@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "clipdump": {
+      "commandName": "Project",
+      "commandLineArgs": "--file-out test1.txt"
+    }
+  }
+}

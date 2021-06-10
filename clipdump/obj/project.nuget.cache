@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "EAR/BUefFQ44+c+TIWU5NeF0jbBhWaX7JnSfxWZ4IejAySeJMAYyPCm2tKvnVtzlyYgrMeH+NEyRd4zkD5PJzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomch\\source\\repos\\clipdump\\clipdump\\clipdump.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomch\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\tomch\\.nuget\\packages\\system.commandline\\2.0.0-beta1.21216.1\\system.commandline.2.0.0-beta1.21216.1.nupkg.sha512",
+    "C:\\Users\\tomch\\.nuget\\packages\\system.commandline.dragonfruit\\0.3.0-alpha.21216.1\\system.commandline.dragonfruit.0.3.0-alpha.21216.1.nupkg.sha512",
+    "C:\\Users\\tomch\\.nuget\\packages\\system.commandline.rendering\\0.3.0-alpha.21216.1\\system.commandline.rendering.0.3.0-alpha.21216.1.nupkg.sha512",
+    "C:\\Users\\tomch\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
