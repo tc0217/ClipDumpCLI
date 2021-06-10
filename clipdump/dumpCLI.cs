@@ -31,9 +31,8 @@ namespace clipdump
             //}
             var curDir = Environment.CurrentDirectory;
             var fullPath = curDir + fileOut.Name;
-            Console.WriteLine(fileOut.FullName);
+            Console.WriteLine($"Writing to {fileOut.FullName}");
             t.Join();
-            Console.ReadLine();
             using (StreamWriter sw = new StreamWriter(fileOut.FullName))
             {
                 foreach (var l in TextList)
@@ -46,7 +45,6 @@ namespace clipdump
         [STAThread]
         public static List<string> ClipHandler()
         {
-            Console.WriteLine(Thread.CurrentThread.GetApartmentState().ToString());
             var result = new List<string>();
             var text = string.Empty;
             if (!Clipboard.ContainsText())
